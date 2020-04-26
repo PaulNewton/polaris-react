@@ -144,7 +144,8 @@
     "Pagination": {
       "previous": "Previous",
       "next": "Next",
-      "pagination": "Pagination"
+      "pagination": "Pagination",
+      "loading": "Loading"
     },
 
     "ProgressBar": {
